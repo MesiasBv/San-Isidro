@@ -9,7 +9,7 @@ const teamMembers = [
     name: "Joel Acevedo",
     role: "Análisis de Datos y Documentación",
     description: "Joel se encarga del análisis de datos y la implementación de soluciones de Big Data para mejorar la eficiencia operativa del restaurante.",
-    imageUrl: "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/363535416_302910702129581_2326901666315044022_n.jpg?ccb=11-4&oh=01_Q5AaIODWCu7vNO4MGojseyj3PzlQT-yc3Sd5oNpxdU5SSI6V&oe=67533482&_nc_sid=5e03e0&_nc_cat=109",  // URL de imagen de ejemplo
+    imageUrl: "/joel.jpeg",  // URL de imagen de ejemplo
     skills: ["Análisis de Datos", "Big Data", "Machine Learning"],
     linkedin: "https://www.linkedin.com/in/joel-acevedo-9532a2210/"
   },
@@ -17,7 +17,7 @@ const teamMembers = [
     name: "Mesías Barrientos",
     role: "Desarrollador de Dashboard y Visualización",
     description: "Mesías se encarga del desarrollo del dashboard interactivo y la visualización de los datos para facilitar la toma de decisiones.",
-    imageUrl: "https://media-lim1-1.cdn.whatsapp.net/v/t61.24694-24/433966454_1553186198716198_7242644812633489043_n.jpg?ccb=11-4&oh=01_Q5AaIDHqHLDGxUXiEN0Nhllo3qQXuSH3mjXr7TYaQNVQOYSQ&oe=6752CF50&_nc_sid=5e03e0&_nc_cat=109",
+    imageUrl: "/mesias.jpeg",
     skills: ["React", "Data Visualization", "Power BI"],
     linkedin: "https://www.linkedin.com/in/mes%C3%ADas-bv-27a6a0241/"
   },
